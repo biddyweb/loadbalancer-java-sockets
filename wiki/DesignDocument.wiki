@@ -1,0 +1,8 @@
+#labels Phase-Design,Phase-Requirements
+#Google Docs based Design Document for constant updation and improvement
+
+= Introduction =
+
+The attached document has the related class diagram as well as other necessary diagrams to understand the project itself. Hopefully, it will be useful :)
+
+[https://docs.google.com/document/d/133yqxU5rn3OqRuFwIDcRAyFk-qw2KPN_0JVdxjpZ1l4/edit?authkey=CNnCmtYG# Design_Document]
