@@ -1,7 +1,0 @@
-#summary Initial Design details
-#labels Phase-Requirements
-
-I have created document where we can discuss the design.
-please follow the link:
-
-[https://docs.google.com/Doc?docid=0Acp_AqpqbjFiZGhicGg3OHhfNGZxMzJmbWNz&hl=en&authkey=CMfEqMMI Intial Design Document]
