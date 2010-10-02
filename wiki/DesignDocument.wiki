@@ -1,5 +1,5 @@
+#summary Google Docs based Design Document for constant updation and improvement
 #labels Phase-Design,Phase-Requirements
-#Google Docs based Design Document for constant updation and improvement
 
 = Introduction =
 
